@@ -1,0 +1,6 @@
+name: DiceVol2
+version: 1.0.0
+main: aquarius0715.dicevol2.DiceVol2
+api-version: 1.13
+commands:
+  dice:
